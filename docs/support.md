@@ -1,6 +1,6 @@
 ## サポート情報
 
-実棚卸調査アプリ（Inventory Survey App）に関するお問い合わせや不具合のご連絡は、以下までお願いいたします。
+実棚卸調査の監査アプリ（Inventory Survey Audit App）に関するお問い合わせや不具合のご連絡は、以下までお願いいたします。
 
 - **担当部署:** MARUEI株式会社 システムグループ
 - **Email:** git-hub@maruei.co.jp  
